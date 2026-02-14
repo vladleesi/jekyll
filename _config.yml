@@ -5,7 +5,8 @@ subtitle: |
   tech insights and personal projects.
 description: Mobile Software Engineer
 
-baseurl: ""
+# Required when site is served at a subpath (e.g. vladleesi.dev/jekyll/)
+baseurl: "/jekyll"
 
 author:
   name: Vladislav Kochetov
